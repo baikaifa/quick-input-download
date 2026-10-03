@@ -12,12 +12,10 @@
 
 ## 下载
 
-**先试用 14 天，全功能，不用填任何东西、不用注册。** 觉得有用再买。
-
 | 系统 | 下载 |
 | --- | --- |
-| **Windows 10 / 11（64 位）** | [**QuickInput Setup 2.1.2.exe**（约 99 MB）](https://quickinput-dl.pages.dev/dl/win) |
-| **macOS（M 系列芯片）** | [**QuickInput-2.1.2-arm64.dmg**（约 101 MB）](https://quickinput-dl.pages.dev/dl/mac) |
+| **Windows 10 / 11（64 位）** | [**QuickInput Setup 2.1.3.exe**（约 100 MB）](https://quickinput-dl.pages.dev/dl/win) |
+| **macOS（M 系列芯片）** | [**QuickInput-2.1.3-arm64.dmg**（约 105 MB）](https://quickinput-dl.pages.dev/dl/mac) |
 | macOS（Intel 芯片） | 暂未提供，需要的话私信我 |
 
 > **2.1.2 新增**：忘记密码可以自己重置了 —— 在登录窗点「忘记密码了怎么办」，重置邮件会发到你的注册邮箱，点邮件里的链接设新密码即可，不用再来找我。
