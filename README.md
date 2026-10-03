@@ -16,19 +16,31 @@
 
 | 系统 | 下载 |
 | --- | --- |
-| **Windows 10 / 11（64 位）** | [**QuickInput Setup 2.1.1.exe**（约 99 MB）](https://quickinput-dl.pages.dev/dl/win) |
-| **macOS（M 系列芯片）** | [**QuickInput-2.1.1-arm64.dmg**（约 85 MB）](https://quickinput-dl.pages.dev/dl/mac) |
+| **Windows 10 / 11（64 位）** | [**QuickInput Setup 2.1.2.exe**（约 99 MB）](https://quickinput-dl.pages.dev/dl/win) |
+| **macOS（M 系列芯片）** | [**QuickInput-2.1.2-arm64.dmg**（约 101 MB）](https://quickinput-dl.pages.dev/dl/mac) |
 | macOS（Intel 芯片） | 暂未提供，需要的话私信我 |
+
+> **2.1.2 新增**：忘记密码可以自己重置了 —— 在登录窗点「忘记密码了怎么办」，重置邮件会发到你的注册邮箱，点邮件里的链接设新密码即可，不用再来找我。
 
 > 下载走 Cloudflare 中转，国内直接点就能下、支持断点续传。
 > 万一抽风，备用地址：[GitHub Releases](https://github.com/baikaifa/quick-input-download/releases)
 
 ### ⚠️ 第一次打开会被系统拦一下
 
-安装包**没有买代码签名证书**，所以系统对陌生程序会弹警告。这不是病毒，绕过去只要一步：
+安装包**没有买苹果/微软的签名证书**，所以系统对陌生程序会弹警告。这不是病毒，按下面走一遍就行，**不用开终端、不用敲命令**：
 
 - **Windows**：点「更多信息」→「仍要运行」
-- **macOS**：**右键**点图标 →「打开」→ 再点「打开」（直接双击会被拦）
+
+- **macOS**（首次打开，跟着做一遍，之后永久不再拦）：
+
+  1. 打开 dmg，把 **QuickInput** 拖进左边的「**应用程序**」文件夹
+  2. 在「应用程序」里**双击** QuickInput → 会弹「未打开"QuickInput"」
+  3. 点「**完成**」（**不要**点「移到废纸篓」）
+  4. 打开 **系统设置 → 隐私与安全性**，往下滚到最底部的「**安全性**」一栏
+  5. 那一栏里有一行「已阻止"QuickInput"以保护 Mac」→ 点右边的「**仍要打开**」
+  6. 再弹一次确认框，还是点「**仍要打开**」
+
+  第 2 步**不要用右键→打开**，macOS 15 之后这个老办法已经失效了，只能走上面第 4 步。
 
 ---
 
@@ -46,7 +58,7 @@
 ## 怎么买
 
 1. 先下载，试用 14 天
-2. 觉得有用，到 B 站私信我：**[space.bilibili.com/247721299](https://space.bilibili.com/247721299)**
+2. 觉得有用，**[点这里直接私信我](https://message.bilibili.com/#/whisper/mid247721299)**（B 站：中登0103）
 3. 我发你收款方式；付完之后把激活码发给你，在软件里输入即可
 
 > 目前是我一个人在维护，回复可能要几个小时，别急。
