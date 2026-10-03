@@ -16,12 +16,11 @@
 
 | 系统 | 下载 |
 | --- | --- |
-| **Windows 10 / 11（64 位）** | [QuickInput Setup 2.1.1.exe](https://gitee.com/keiferr/quick-input-download/releases) |
-| **macOS（M 系列芯片）** | [QuickInput-2.1.1-arm64.dmg](https://gitee.com/keiferr/quick-input-download/releases) |
+| **Windows 10 / 11（64 位）** | [QuickInput Setup 2.1.1.exe](https://github.com/baikaifa/quick-input-download/releases) |
+| **macOS（M 系列芯片）** | [QuickInput-2.1.1-arm64.dmg](https://github.com/baikaifa/quick-input-download/releases) |
 | macOS（Intel 芯片） | 暂未提供，需要的话私信我 |
 
 > 两个链接都指向本仓库的 **Releases** 页面，去那里拿最新的安装包。
-> ⚠️ 建仓库时名字必须是 `quick-input-download`，否则这两个链接要改。
 
 ### ⚠️ 第一次打开会被系统拦一下
 
