@@ -1,0 +1,12 @@
+# 安装包不进 git（一个就有 100MB+），走 Release 附件
+*.exe
+*.dmg
+*.zip
+*.appx
+*.msix
+*.blockmap
+*.yml
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
