@@ -16,11 +16,12 @@
 
 | 系统 | 下载 |
 | --- | --- |
-| **Windows 10 / 11（64 位）** | [QuickInput Setup 2.1.1.exe](https://github.com/baikaifa/quick-input-download/releases) |
-| **macOS（M 系列芯片）** | [QuickInput-2.1.1-arm64.dmg](https://github.com/baikaifa/quick-input-download/releases) |
+| **Windows 10 / 11（64 位）** | [**QuickInput Setup 2.1.1.exe**（约 99 MB）](https://quickinput-dl.pages.dev/dl/win) |
+| **macOS（M 系列芯片）** | [**QuickInput-2.1.1-arm64.dmg**（约 85 MB）](https://quickinput-dl.pages.dev/dl/mac) |
 | macOS（Intel 芯片） | 暂未提供，需要的话私信我 |
 
-> 两个链接都指向本仓库的 **Releases** 页面，去那里拿最新的安装包。
+> 下载走 Cloudflare 中转，国内直接点就能下、支持断点续传。
+> 万一抽风，备用地址：[GitHub Releases](https://github.com/baikaifa/quick-input-download/releases)
 
 ### ⚠️ 第一次打开会被系统拦一下
 
@@ -45,7 +46,7 @@
 ## 怎么买
 
 1. 先下载，试用 14 天
-2. 觉得有用，到 B 站私信我：**<在这里填你的 B 站主页链接>**
+2. 觉得有用，到 B 站私信我：**[space.bilibili.com/247721299](https://space.bilibili.com/247721299)**
 3. 我发你收款方式；付完之后把激活码发给你，在软件里输入即可
 
 > 目前是我一个人在维护，回复可能要几个小时，别急。
