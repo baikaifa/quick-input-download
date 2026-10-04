@@ -4,9 +4,7 @@
 
 给经常重复粘贴同一段东西的人用：API Key、常用 prompt、Git commit 模板、客服话术、收货地址、邮件签名、项目路径。
 
-<!-- TODO(Keifer)：录一个 15 秒的 GIF 放这里（敲 `;hi` → 秒展开），放在本文件同级目录，文件名 demo.gif，
-     然后把下面这行的注释去掉。没有演示视频，这个页面转化率会低很多。 -->
-<!-- ![演示](demo.gif) -->
+▶️ **2 分钟演示视频**：[敲两个字母，自动打出整段话｜我自己写的快速输入工具 QuickInput](https://www.bilibili.com/video/BV1CvHz6MEcw)
 
 ---
 
